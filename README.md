@@ -8,7 +8,6 @@
 
 ### Node.js
 
-
 - Ladda ner och installera [Node](https://nodejs.org/en/) (LTS).
 - Ni kan testa att ni lyckats installera Node korrekt genom att köra en .js-fil i vs code (som när ni kör en pythonfil)
 
